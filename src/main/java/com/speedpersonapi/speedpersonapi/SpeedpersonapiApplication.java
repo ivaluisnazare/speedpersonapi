@@ -9,7 +9,7 @@ public class SpeedpersonapiApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(SpeedpersonapiApplication.class, args);
-		System.out.printf("It's All Right!");
+
 	}
 
 }
