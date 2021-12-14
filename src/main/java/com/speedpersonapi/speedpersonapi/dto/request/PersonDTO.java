@@ -1,6 +1,5 @@
 package com.speedpersonapi.speedpersonapi.dto.request;
 
-
 import com.sun.istack.NotNull;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
