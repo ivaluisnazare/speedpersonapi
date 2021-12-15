@@ -2,7 +2,7 @@
 ## api for speed bootcamp
 ### Neste estudo, aproveitei de um projeto apresentado em um curso sobre boas práticas e acrescentei correções na classe referente ao método put e melhor caracterizei as exceções.
 
-### No projeto em questão utilizei as ferramentas spring boot, h2, postman e [Heroku](https://speedpersonapi.herokuapp.com/api/v1/people/).
+#### No projeto em questão utilizei as ferramentas: spring boot, h2, postman e [Heroku](https://speedpersonapi.herokuapp.com/api/v1/people/).
 
 * Melhoramento da requisição PUT.
 
