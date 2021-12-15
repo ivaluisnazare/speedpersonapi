@@ -61,4 +61,4 @@ SELECT person.id, PERSON.FIRST_NAME, PHONE.NUMBER, phone.type FROM PERSON left J
 select * from phone;
 
 ```
-mostrando, assim, a atualização do dado cadastrado, como a relação de uma pessoa para muitos tipo de telefone, `@OneToMany`.
+mostrando, assim, a atualização do dado cadastrado, como a relação de uma pessoa para muitos tipos de telefone, `@OneToMany`.
