@@ -2,6 +2,8 @@
 ## api for speed bootcamp
 ### Neste estudo, aproveitei de um projeto apresentado em um curso sobre boas práticas e acrescentei correções na classe referente ao método put e melhor caracterizei as exceções.
 
+### No projeto em questão utilizei as ferramentas spring boot, h2, postman e [Heroku](https://speedpersonapi.herokuapp.com/api/v1/people/).
+
 * Melhoramento da requisição PUT.
 
 Para o caso da atualização de um ente no cadastro, o código original do curso, como segue:
@@ -38,11 +40,10 @@ que, após popular com dados no formato JSON e cpf válidos, como exemplo:
 
 ```
 {
-        "id": 1,
         "firstName": "Ivã",
         "lastName": "Nazaré",
         "cpf": "-----------",
-        "birthDate": "1978-08-15",
+        "birthDate": "15/08/1978",
         "phones": [
             {
                 "id": 1,
