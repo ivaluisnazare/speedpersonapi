@@ -4,7 +4,7 @@
 
 #### No projeto em questão utilizei as ferramentas: spring boot, h2, mapstruct, postman e [Heroku](https://speedpersonapi.herokuapp.com/api/v1/people/).
 
-* Melhoramento da requisição PUT. :speak_no_evil:
+### * Melhoramento da requisição PUT. :speak_no_evil:
 
 Para o caso da atualização de um ente no cadastro, o código original do curso, como segue,
 ```
