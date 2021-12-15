@@ -54,7 +54,7 @@ que, após popular com dados no formato JSON e cpf válidos, como exemplo:
         }
     
 ```
-obtem-se uma resposta válida, com a questões,
+obtem-se uma resposta válida com as questões,
 
 ```
 SELECT person.id, PERSON.FIRST_NAME, PHONE.NUMBER, phone.type FROM PERSON left JOIN PHONE ON PERSON.ID = PHONE.PERSON_ID;
