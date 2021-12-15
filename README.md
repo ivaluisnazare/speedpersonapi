@@ -6,7 +6,7 @@
 
 * Melhoramento da requisição PUT. :speak_no_evil:
 
-Para o caso da atualização de um ente no cadastro, o código original do curso, como segue:
+Para o caso da atualização de um ente no cadastro, o código original do curso, como segue,
 ```
     public MessageResponseDTO putPerson(Long id, PersonDTO personDTO) throws PersonNotFoundException{
         personRepository.findById(id)
