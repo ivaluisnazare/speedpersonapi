@@ -56,8 +56,8 @@ que, após popular com dados no formato JSON e cpf válidos, como exemplo:
 obtem-se uma resposta válida, com a questões,
 
 ```
-* SELECT person.id, PERSON.FIRST_NAME, PHONE.NUMBER, phone.type FROM PERSON left JOIN PHONE ON PERSON.ID = PHONE.PERSON_ID;
-* select * from phone;
+SELECT person.id, PERSON.FIRST_NAME, PHONE.NUMBER, phone.type FROM PERSON left JOIN PHONE ON PERSON.ID = PHONE.PERSON_ID;
+select * from phone;
 
 ```
 mostrando, assim, a atualização do dado cadastrado, com uma relação de uma pessoa para um tipo de telefone.
