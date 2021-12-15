@@ -1,6 +1,6 @@
 # speedpersonapi
 ## api for speed bootcamp
-### Neste estudo, aproveitei de um projeto apresentado em um curso sobre boas práticas, dto, e acrescentei correções na classe referente ao método put e em outras passagens do código, a exemplo no que se refere a utilização do mapstruct.
+### Neste estudo, aproveitei de um projeto apresentado em um curso sobre boas práticas, dto, e acrescentei correções na classe referente ao método put e em outras passagens do código, a exemplo, na que se refere a utilização do mapstruct.
 
 #### No projeto em questão utilizei as ferramentas: spring boot, h2, mapstruct, postman e [Heroku](https://speedpersonapi.herokuapp.com/api/v1/people/).
 
